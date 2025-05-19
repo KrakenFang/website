@@ -1,6 +1,6 @@
 
 <title>KrakenFang</title>
-<style>
+<html><body><style>
     .subscribe-button{background-color: rgb(255, 12, 12);
     color: white ;
     font-size: large;
@@ -152,3 +152,7 @@ Shop now &#62;
 <button class="join-button">JOIN</button>
 <button class="tweet-button">Tweet
 </button>
+
+
+</body>
+</html>
