@@ -1,4 +1,4 @@
-# website
+
 <title>KrakenFang</title>
 <style>
     .subscribe-button{background-color: rgb(255, 12, 12);
